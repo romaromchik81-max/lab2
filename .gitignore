@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.a
+*~
+bin/
+obj/
+*.depend
+*.layout
+.gitignore
+LIC*.*
+finish/
